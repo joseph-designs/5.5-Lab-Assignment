@@ -48,7 +48,7 @@ main {
 }
 
 .details ul li {
-    background: url(qrcode-solid\ 1.svg) no-repeat center left;
+    background: url(qrcode-solid.svg) no-repeat center left;
     list-style-type: none;
     margin: 10px 0;
     padding: 0 0 0 40px;
