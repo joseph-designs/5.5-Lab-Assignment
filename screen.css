@@ -39,3 +39,18 @@ main {
     text-align: center;
     min-height: 800px;
 }
+
+.hero {
+    font-size: 9em;
+    line-height: 1em;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+.details ul li {
+    background: url(qrcode-solid\ 1.svg) no-repeat center left;
+    list-style-type: none;
+    margin: 10px 0;
+    padding: 0 0 0 40px;
+
+}
