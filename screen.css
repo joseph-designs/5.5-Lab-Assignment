@@ -99,13 +99,17 @@ form {
 }
 
 input[type=text] {
+  background-color: #ECECEC;
+  text-align: left;
   padding: 25px 210px;
   margin: 0px 10px
 }
 
 .button 
 {
-  background-color: #f00000;
-  padding: 25px 40px;
+  background-color: --accent-color;
+  font-color: #ffffff;
+  text-transform: uppercase;
+  padding: 25px 20px;
   margin: 0px 15px;
 }
