@@ -28,6 +28,11 @@ header h1 {
 
 }
 
+h3 {
+    font-size: 64px;
+}
+
+
 main {
     background: url('Polaroid.png') no-repeat center 100px;
     margin: 0 auto;
