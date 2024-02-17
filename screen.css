@@ -18,8 +18,9 @@ body {
 }
 
 header {
+    font-weight: bold;
     padding: 20px;
-    margin-bottom: 100px;
+    margin-bottom: 80px;
 }
 
 header h1 {
@@ -47,7 +48,7 @@ main {
 
 .hero {
     text-align: center;
-    min-height: 700px;
+    min-height: 800px;
 }
 
 .hero {
