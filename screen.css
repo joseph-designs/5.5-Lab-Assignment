@@ -32,6 +32,10 @@ h3 {
     font-size: 64px;
 }
 
+p {
+    font-size: 32px;
+
+}
 
 main {
     background: url('Polaroid.png') no-repeat center 100px;
