@@ -5,6 +5,7 @@
     --main-bg-color: #e9e9e9;
     --primary-text-color: #424242;
     --accent-color: #ff3f3c;
+    --font-family: "Inter", sans-serif;
 
 }
 
@@ -12,7 +13,7 @@
 body {
     background-color:var(--main-bg-color);
     color: var(--primary-text-color);
-    font-family:"Inter", sans-serif;
+    font-family: var(--font-family);
     margin: 0;
     padding: 0;
 }
